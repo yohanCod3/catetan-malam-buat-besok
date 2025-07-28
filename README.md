@@ -1,5 +1,6 @@
 # catetan-malam-buat-besok
 Hanya repo kecil untuk membuat to do list apa yang harus dikerjakan besok
 
-Selasa-Rabu kerja
-Jumat KKR
+- memindahkan sequencer ke drive
+- belajar next JS
+- ngulik buat kamis
